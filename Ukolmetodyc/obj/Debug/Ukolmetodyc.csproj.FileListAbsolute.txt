@@ -1,0 +1,10 @@
+C:\Users\Uživatel\Desktop\programy\Ukolmetodyc\bin\Debug\Ukolmetodyc.exe.config
+C:\Users\Uživatel\Desktop\programy\Ukolmetodyc\bin\Debug\Ukolmetodyc.exe
+C:\Users\Uživatel\Desktop\programy\Ukolmetodyc\bin\Debug\Ukolmetodyc.pdb
+C:\Users\Uživatel\Desktop\programy\Ukolmetodyc\obj\Debug\Ukolmetodyc.csproj.AssemblyReference.cache
+C:\Users\Uživatel\Desktop\programy\Ukolmetodyc\obj\Debug\Ukolmetodyc.Form1.resources
+C:\Users\Uživatel\Desktop\programy\Ukolmetodyc\obj\Debug\Ukolmetodyc.Properties.Resources.resources
+C:\Users\Uživatel\Desktop\programy\Ukolmetodyc\obj\Debug\Ukolmetodyc.csproj.GenerateResource.cache
+C:\Users\Uživatel\Desktop\programy\Ukolmetodyc\obj\Debug\Ukolmetodyc.csproj.CoreCompileInputs.cache
+C:\Users\Uživatel\Desktop\programy\Ukolmetodyc\obj\Debug\Ukolmetodyc.exe
+C:\Users\Uživatel\Desktop\programy\Ukolmetodyc\obj\Debug\Ukolmetodyc.pdb
